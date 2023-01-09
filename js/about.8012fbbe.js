@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgoncalo_falcao"]=self["webpackChunkgoncalo_falcao"]||[]).push([[443],{381:function(a,n,c){c.r(n),c.d(n,{default:function(){return i}});var o=c(252);const u={class:"about"},t=(0,o._)("h1",null,"This is an about page",-1),e=[t];function r(a,n){return(0,o.wg)(),(0,o.iD)("div",u,e)}var s=c(744);const l={},f=(0,s.Z)(l,[["render",r]]);var i=f}}]);
+//# sourceMappingURL=about.8012fbbe.js.map
